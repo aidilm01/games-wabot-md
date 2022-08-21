@@ -1,5 +1,5 @@
 {
-    "name": "games-wabot",
+    "name": "DILZPX-BOTMD",
     "version": "2.1.0",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -20,22 +20,22 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "Games-wabot",
+        "DILZPX-BOTMD",
         "wabot-aq",
         "multi-device",
         "MD",
-        "baileys-md"
+        "DILZPX-MD"
     ],
-    "homepage": "https://github.com/BochilGaming/games-wabot",
+    "homepage": "https://github.com/aidilgm000/games-wabot",
     "author": {
-        "name": "BochilGaming"
+        "name": "DUDUL-PORKEY"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BochilGaming/games-wabot.git"
+        "url": "git+https://github.com/aidilgm000/games-wabot.git"
     },
     "bugs": {
-        "url": "https://github.com/BochilGaming/games-wabot/issues"
+        "url": "https://github.com/aidilgm000/games-wabot/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
